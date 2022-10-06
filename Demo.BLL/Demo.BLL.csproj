@@ -1,0 +1,16 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+	  <TargetFramework>net6.0</TargetFramework>
+	  <Configurations>Debug;Release;newConfig</Configurations>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Demo.BLL.Contracts\Demo.BLL.Contracts.csproj" />
+    <ProjectReference Include="..\Demo.DAL.Contracts\Demo.DAL.Contracts.csproj" />
+    <ProjectReference Include="..\Demo.DAL\Demo.DAL.csproj" />
+    <ProjectReference Include="..\Demo.Entities\Demo.Entities.csproj" />
+  </ItemGroup>
+
+</Project>
+

@@ -1,0 +1,34 @@
+﻿@page "/Login"
+
+<div class="card">
+    <h3 class="card-title">Signin</h3>
+    @if (isFlailed)
+    {
+        <div class="alert-danger">
+            <p>Check info</p>
+        </div>
+    }
+    
+  <div class="card-body">
+      <EditForm Model="@loginModel" OnValidSubmit="@HandleLogin">
+
+          <DataAnnotationsValidator/>
+          <ValidationSummary/>
+
+          <div class="form-group">
+              <label for="LastName">UserName</label>
+              <InputText id="UserName" class="form-control" @bind-Value="loginModel.UserName"/>
+              <ValidationMessage For="@(() => loginModel.UserName)"/>
+          </div>
+
+          <div class="form-group">
+              <label for="LastName">Password</label>
+              <InputText id="Password" type="password" class="form-control" @bind-Value="loginModel.Password"/>
+              <ValidationMessage For="@(() => loginModel.Password)"/>
+          </div>
+
+          <button type="submit" class="btn btn-primary btn-block" >Submit</button>
+
+      </EditForm>
+  </div>
+</div>

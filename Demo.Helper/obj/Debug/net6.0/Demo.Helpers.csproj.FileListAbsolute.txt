@@ -1,0 +1,12 @@
+C:\Users\oussama tounsi\Source\Repos\demo\Demo.Helper\bin\Debug\net6.0\Demo.Helpers.deps.json
+C:\Users\oussama tounsi\Source\Repos\demo\Demo.Helper\bin\Debug\net6.0\Demo.Helpers.dll
+C:\Users\oussama tounsi\Source\Repos\demo\Demo.Helper\bin\Debug\net6.0\Demo.Helpers.pdb
+C:\Users\oussama tounsi\Source\Repos\demo\Demo.Helper\obj\Debug\net6.0\Demo.Helpers.csproj.AssemblyReference.cache
+C:\Users\oussama tounsi\Source\Repos\demo\Demo.Helper\obj\Debug\net6.0\Demo.Helpers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\oussama tounsi\Source\Repos\demo\Demo.Helper\obj\Debug\net6.0\Demo.Helpers.AssemblyInfoInputs.cache
+C:\Users\oussama tounsi\Source\Repos\demo\Demo.Helper\obj\Debug\net6.0\Demo.Helpers.AssemblyInfo.cs
+C:\Users\oussama tounsi\Source\Repos\demo\Demo.Helper\obj\Debug\net6.0\Demo.Helpers.csproj.CoreCompileInputs.cache
+C:\Users\oussama tounsi\Source\Repos\demo\Demo.Helper\obj\Debug\net6.0\Demo.Helpers.dll
+C:\Users\oussama tounsi\Source\Repos\demo\Demo.Helper\obj\Debug\net6.0\refint\Demo.Helpers.dll
+C:\Users\oussama tounsi\Source\Repos\demo\Demo.Helper\obj\Debug\net6.0\Demo.Helpers.pdb
+C:\Users\oussama tounsi\Source\Repos\demo\Demo.Helper\obj\Debug\net6.0\ref\Demo.Helpers.dll

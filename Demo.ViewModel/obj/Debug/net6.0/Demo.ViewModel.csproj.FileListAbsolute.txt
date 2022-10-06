@@ -1,0 +1,12 @@
+C:\Users\oussama tounsi\Source\Repos\demo\Demo.ViewModel\bin\Debug\net6.0\Demo.ViewModel.deps.json
+C:\Users\oussama tounsi\Source\Repos\demo\Demo.ViewModel\bin\Debug\net6.0\Demo.ViewModel.dll
+C:\Users\oussama tounsi\Source\Repos\demo\Demo.ViewModel\bin\Debug\net6.0\Demo.ViewModel.pdb
+C:\Users\oussama tounsi\Source\Repos\demo\Demo.ViewModel\obj\Debug\net6.0\Demo.ViewModel.csproj.AssemblyReference.cache
+C:\Users\oussama tounsi\Source\Repos\demo\Demo.ViewModel\obj\Debug\net6.0\Demo.ViewModel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\oussama tounsi\Source\Repos\demo\Demo.ViewModel\obj\Debug\net6.0\Demo.ViewModel.AssemblyInfoInputs.cache
+C:\Users\oussama tounsi\Source\Repos\demo\Demo.ViewModel\obj\Debug\net6.0\Demo.ViewModel.AssemblyInfo.cs
+C:\Users\oussama tounsi\Source\Repos\demo\Demo.ViewModel\obj\Debug\net6.0\Demo.ViewModel.csproj.CoreCompileInputs.cache
+C:\Users\oussama tounsi\Source\Repos\demo\Demo.ViewModel\obj\Debug\net6.0\Demo.ViewModel.dll
+C:\Users\oussama tounsi\Source\Repos\demo\Demo.ViewModel\obj\Debug\net6.0\refint\Demo.ViewModel.dll
+C:\Users\oussama tounsi\Source\Repos\demo\Demo.ViewModel\obj\Debug\net6.0\Demo.ViewModel.pdb
+C:\Users\oussama tounsi\Source\Repos\demo\Demo.ViewModel\obj\Debug\net6.0\ref\Demo.ViewModel.dll

@@ -1,0 +1,46 @@
+﻿@page "/Signin"
+
+<div class="card">
+    <h3 class="card-title">Signin</h3>
+    @if (isFlailed)
+    {
+        <div class="alert-danger">
+            <p>Check info</p>
+        </div>
+    }
+    
+  <div class="card-body">
+      <EditForm Model="@SigninModel" OnValidSubmit="@HandleSignin">
+
+          <DataAnnotationsValidator/>
+          <ValidationSummary/>
+
+          <div class="form-group">
+              <label for="LastName">FirstName</label>
+              <InputText id="FirstName" class="form-control" @bind-Value="SigninModel.FirstName"/>
+              <ValidationMessage For="@(() => SigninModel.FirstName)"/>
+          </div>
+
+          <div class="form-group">
+              <label for="LastName">LastName</label>
+              <InputText id="LastName" class="form-control" @bind-Value="SigninModel.LastName"/>
+              <ValidationMessage For="@(() => SigninModel.LastName)"/>
+          </div>
+
+          <div class="form-group">
+              <label for="LastName">UserName</label>
+              <InputText id="UserName" class="form-control" @bind-Value="SigninModel.UserName"/>
+              <ValidationMessage For="@(() => SigninModel.UserName)"/>
+          </div>
+
+          <div class="form-group">
+              <label for="LastName">Password</label>
+              <InputText id="Password" type="password" class="form-control" @bind-Value="SigninModel.Password"/>
+              <ValidationMessage For="@(() => SigninModel.Password)"/>
+          </div>
+
+          <button type="submit" class="btn btn-primary btn-block" >Submit</button>
+
+      </EditForm>
+  </div>
+</div>
